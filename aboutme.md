@@ -1,16 +1,26 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Practitioner. Photographer. Life-long Learner.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### My name is Situ Ma. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Senior at UCLA, double majoring in Mathematics/Economics and Statistics.
+- Part-time data analyst in Los Angeles
+- Enjoy fast-pacing, stimulating work envrionment
+- Motivated learner
+- A fan of Manchester United F.C.
 
-What else do you need?
 
-### my history
+### My professional experiences
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Passionate about Big Data and the Finance industry.
+
+Quantitative research intern @ Harvest Fund Management
+Alpha Researcher @ WorldQuant
+Data Analyst @ Forkaia
+Financial analyst @ Wilshire Financial Network
+Research assistant @ UCLA CNSR
+
+Connect me on [LinkedIn](https://www.linkedin.com/in/situ-ma/) and learn more about me
