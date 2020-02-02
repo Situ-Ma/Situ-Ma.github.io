@@ -6,7 +6,7 @@ title: Situ Ma
 # Short description of your site
 description: personal website
 
-header-img: img/post-bg-desk.jpg
+bigimg: img/post-bg-desk.jpg
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
