@@ -21,10 +21,10 @@ description: personal website
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-#   Resources:
-#     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#     - Learn markdown: "http://www.markdowntutorial.com/"
-  Contact: "situ_ma@ucla.com"
+  Projects:
+    - Projects: "project"
+    - Photography Portfolio: "portfolio"
+  Contact: "contactme"
   Author's home: "http://Situ-Ma.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -52,7 +52,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
+navbar-img: "/img/tutu.png"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
